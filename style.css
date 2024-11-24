@@ -1,0 +1,332 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.Part1{
+  
+background-image: radial-gradient(white, pink);
+  height: 600px;
+}
+.button{
+  background-color: red;
+  border-radius: 50px;
+}
+li{
+  display:inline;
+  margin-left: 100px;
+  margin-bottom: 40p;
+  font-size: 20px;
+}
+.cart, .logo, .options{
+  display: inline-block;
+ 
+}
+
+.picture{
+  height:50px;
+}
+.cart{
+  margin-left: 120px;
+}
+.text{
+  margin-top: 150px;
+}
+
+
+.img{
+  width: 300px;
+  height: 300px;
+  margin-left: 50px;
+  display: inline;
+}
+.part3{
+  margin-left: 60px;
+  margin-top: 70px;
+  
+}
+.big{
+    position:absolute;
+    top:150px;
+    left:700px;
+    
+}
+.text{
+  margin-left: 100px;
+}
+.title{
+    text-align: center;
+    margin: 0 auto 80px;
+    position: relative;
+    line-height: 60px;
+    color: var(--text-color);
+}
+.title::after{
+    content: '';
+    background: var(--highlight-color);
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+}
+.small{
+  margin-left: 80px;
+  
+  
+}
+.p1, .p2, .p3, .p4{
+  display:inline-block;
+  margin-left: 60px;
+}
+
+
+.medium{
+  margin-top: 150px;
+  margin-left: 80px;
+}
+
+.end{
+  margin-top: 150px;
+
+}
+
+.Part2{
+
+background-image: radial-gradient(white, pink) ;
+  height: 600px;
+  margin-top: 150px;
+  margin-left:-150px;
+ 
+  
+}
+
+.ex{
+  width:400px ;
+  height: 300px;
+  margin-top: 150px;
+}
+.button2{
+  background-color: red;
+  border-radius: 50px;
+  
+}
+.watch, .exclusive{
+  display: inline-block;
+
+}
+.exclusive{
+  margin-left:100px;
+}
+
+.p5, .p6, .p7, .p8{
+  display: inline-block;
+  margin-left: 60px;
+}
+
+.p9, .p10, .p11, .p12{
+  display: inline-block;
+  margin-left: 60px;
+}
+
+.text1, .text2, .text3{
+  width: 300px;
+  height: 400px;
+  display: inline-block;
+ margin-left: 60px;
+
+
+}
+.lorem{
+  color:black;
+}
+.text1{
+  margin-top: 200px;
+  margin-left: 200px;
+}
+.user1, .user2, .user3{
+  border-radius: 160px;
+  width: 80px;
+  height: 95px;
+}
+.img9{
+  display: inline;
+  margin-top: 500px;
+  margin-left: 40px;
+}
+
+.black{
+  background-color: black;
+  width: 1250px;
+  height: 300px;
+  margin-left: -90px;
+  
+}
+
+.app, .store{
+  display:inline;
+}
+.app{
+  width:120px;
+  height:50px;
+}
+
+.store{
+  width:120px;
+  height:50px;
+}
+.hello{
+  margin-bottom: 200px;
+ width: 120px;
+  height: 80px;
+ 
+}
+
+ .r1{
+   position:absolute;
+   top:4050px;
+   left:30px;
+ }
+
+.Part6{
+height: 1000px;
+}
+
+.r1, .r2, .r3, .r4{
+  display: inline-block;
+   width:350px;
+  height:300px;
+   margin-left:60px;
+  color:white;
+}
+.r2{
+  position:absolute;
+  top:4050px;
+  left:420px;
+}
+
+.h, .p, .ac, .co{
+  display: inline-block;
+}
+
+.input{
+  padding-top: 20px;
+}
+
+.button4{
+  border-radius: 30px;
+  background-color: red;
+}
+
+.account-page {
+    padding: 50px 0;
+   
+}
+
+#LoginForm, #RegForm{
+  display: inline-block;
+}
+
+.account-page {
+    padding: 50px 0;
+    background: radial-gradient(#fff, var(--bg-color));
+}
+
+.form-container {
+    background: #fff;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top:200px;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    left:600px;
+}
+
+
+.form-btn {
+    display: inline-block;
+}
+
+.form-container form {
+    max-width: 300px;
+    padding: 0 20px;
+    position: absolute;
+    top: 130px;
+    transition: transform 1s;
+}
+
+
+
+#LoginForm {
+    left: -300px;
+  
+}
+
+#RegForm {
+    left: 0;
+}
+
+form a {
+    font-size: 12px;
+}
+
+.btn{
+  background-color: red;
+  border-radius: 30px;
+}
+.lg{
+  margin-left:-20px;
+}
+ .rg{
+  margin-left: 60px;
+}
+.purpose{
+  color: white;
+}
+
+.lorem ipsum{
+  background:white ;
+  border-radius: 20px;
+}
+.Part20{
+  background-image: radial-gradient(white, pink) ;
+   width:1250px;
+  height:600px;
+}
+
+.d{
+  background-color: white;
+   margin:30px;
+   padding:30px;
+}
+.c{
+  background-color: white;
+  width: 100px;
+}
+.btn3{
+  background-color: darkorange;
+  border-radius: 20px;
+ 
+}
+.first, .last, .phone{
+  width:250px ;
+  height: 20px;
+  margin-top: 20px;
+}
+.phone, .btn3{
+  margin-top: 20px;
+}
+.btn3{
+  width: 120px;
+  height: 20px;
+}
+
+.useful, .follow, .r2{
+  color:white;
+  display: inline-block;
+}
+
